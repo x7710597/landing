@@ -1,0 +1,23 @@
+.footer-container{
+  height: 300px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+ul li{
+  display: inline-block;
+  font-size: 42px;
+  color: white;
+  margin-right: 10px;
+}
+
+ul li:hover {
+  color: black;
+}
